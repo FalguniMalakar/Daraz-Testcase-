@@ -1,11 +1,11 @@
 # Daraz-Testcase
-- **Project Overview:**
-- Gadget N Gadget (gng.com) is a leading Bangladeshi e-commerce platform offering a wide selection of electronics and gadgets, including mobile phones, laptops, smartwatches, and accessories. The test cases were created using XMind for mind mapping and Microsoft Excel for organization.
+**Project Overview:**
+Gadget N Gadget (gng.com) is a leading Bangladeshi e-commerce platform offering a wide selection of electronics and gadgets, including mobile phones, laptops, smartwatches, and accessories. The test cases were created using XMind for mind mapping and Microsoft Excel for organization.
 
 **Testing Tools:**
--Test Case Management: Microsoft Excel (for detailed test case creation and management)
+Test Case Management: Microsoft Excel (for detailed test case creation and management)
 
--**Including:**
+**Including:**
 -Test case ID
 -Module Name
 -Type of Testing
