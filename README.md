@@ -7,18 +7,18 @@ Test Case Management: Microsoft Excel (for detailed test case creation and manag
 
 **Including:**
 Test case ID,
-Module Name
-Type of Testing
-Features
--Test Case Description
--Expected Result
--Actual Result
--Status (Pass/Fail)
--Reproducing steps
--Bug Screenshots
--Developer Coments
+Module Name,
+Type of Testing,
+Features,
+Test Case Description,
+Expected Result,
+Actual Result,
+Status (Pass/Fail),
+Reproducing steps,
+Bug Screenshots,
+Developer Coments,
 
--**Test Case:**
--Test case is a detailed specification of inputs, execution conditions, testing procedures, and expected results for a particular test scenario, used to verify the functionality or performance of a software application.
--![Daraz](https://github.com/FalguniMalakar/Daraz-Testcase-/assets/153453822/53c1268e-d0d9-46ff-bcc0-3bc6fb3f3537)
+**Test Case:**
+Test case is a detailed specification of inputs, execution conditions, testing procedures, and expected results for a particular test scenario, used to verify the functionality or performance of a software application.
+![Daraz](https://github.com/FalguniMalakar/Daraz-Testcase-/assets/153453822/53c1268e-d0d9-46ff-bcc0-3bc6fb3f3537)
 
