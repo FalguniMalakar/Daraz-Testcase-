@@ -20,4 +20,5 @@
 
 -**Test Case:**
 -Test case is a detailed specification of inputs, execution conditions, testing procedures, and expected results for a particular test scenario, used to verify the functionality or performance of a software application.
--
+-![Daraz](https://github.com/FalguniMalakar/Daraz-Testcase-/assets/153453822/53c1268e-d0d9-46ff-bcc0-3bc6fb3f3537)
+
