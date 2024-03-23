@@ -6,7 +6,7 @@ Gadget N Gadget (gng.com) is a leading Bangladeshi e-commerce platform offering 
 Test Case Management: Microsoft Excel (for detailed test case creation and management)
 
 **Including:**
-Test case ID
+Test case ID,
 Module Name
 Type of Testing
 Features
